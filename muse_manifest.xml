@@ -1,0 +1,322 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yo-leoeditores.com" resolutions="1x" timestamp="1619559623127">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="faq.css" crc="4247206372" ref="faq"/>
+    <file name="iefonts_faq.css" crc="4130592507" ref="faq"/>
+    <file name="evoluci_n.css" crc="4070136383" ref="evolución"/>
+    <file name="quienes-somos.css" crc="299554388" ref="quienes-somos"/>
+    <file name="iefonts_quienes-somos.css" crc="258335958" ref="quienes-somos"/>
+    <file name="contactos.css" crc="290909150" ref="contactos"/>
+    <file name="iefonts_contactos.css" crc="4040218710" ref="contactos"/>
+    <file name="index.css" crc="267848256" ref="index"/>
+    <file name="iefonts_index.css" crc="316589371" ref="index"/>
+    <file name="lecturas.css" crc="257489797" ref="lecturas"/>
+    <file name="iefonts_lecturas.css" crc="160145401" ref="lecturas"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>quienes-somos:phone>evolución:phone>contactos:phone>lecturas:phone>faq:tablet>index:tablet>quienes-somos:tablet>evolución:tablet>contactos:tablet>lecturas:tablet>faq:index:faq:quienes-somos:evolución:contactos:lecturas"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>quienes-somos:phone>evolución:phone>contactos:phone>lecturas:phone>faq:tablet>index:tablet>quienes-somos:tablet>evolución:tablet>contactos:tablet>lecturas:tablet>faq:index:faq:quienes-somos:evolución:contactos:lecturas"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>quienes-somos:phone>evolución:phone>contactos:phone>lecturas:phone>faq:tablet>index:tablet>quienes-somos:tablet>evolución:tablet>contactos:tablet>lecturas:tablet>faq:index:faq:quienes-somos:evolución:contactos:lecturas"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>quienes-somos:phone>evolución:phone>contactos:phone>lecturas:phone>faq:tablet>index:tablet>quienes-somos:tablet>evolución:tablet>contactos:tablet>lecturas:tablet>faq:index:faq:quienes-somos:evolución:contactos:lecturas"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>quienes-somos:phone>evolución:phone>contactos:phone>lecturas:phone>faq:tablet>index:tablet>quienes-somos:tablet>evolución:tablet>contactos:tablet>lecturas:tablet>faq:index:faq:quienes-somos:evolución:contactos:lecturas"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>quienes-somos:phone>evolución:phone>contactos:phone>lecturas:phone>faq:tablet>index:tablet>quienes-somos:tablet>evolución:tablet>contactos:tablet>lecturas:tablet>faq:index:faq:quienes-somos:evolución:contactos:lecturas"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="tablet>index:tablet>quienes-somos:index:faq:quienes-somos:evolución:contactos:lecturas"/>
+    <file name="webpro.js" crc="3856315280" ref="tablet>index:tablet>quienes-somos:index:faq:quienes-somos:evolución:contactos:lecturas"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="tablet>index:tablet>quienes-somos:index:quienes-somos:evolución:contactos:lecturas"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="tablet>index:tablet>quienes-somos:index:quienes-somos:evolución:contactos:lecturas"/>
+    <file name="touchswipe.js" crc="3888935200" ref="tablet>index:tablet>quienes-somos:index:quienes-somos:evolución:contactos:lecturas"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="tablet>index:tablet>quienes-somos:index:faq:quienes-somos"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="tablet>index:tablet>quienes-somos:index:faq:quienes-somos:evolución:contactos"/>
+    <file name="html5shiv.js" crc="4241844378" ref="tablet>index:tablet>quienes-somos:tablet>evolución:tablet>contactos:tablet>lecturas:tablet>faq:index:faq:quienes-somos:evolución:contactos:lecturas"/>
+    <file name="form_check.php" crc="4108222811" ref="faq"/>
+    <file name="form_throttle.php" crc="503802655" ref="faq"/>
+    <file name="form_process.php" crc="260214869" ref="faq"/>
+    <file name="form-u2063.php" crc="438706496" ref="faq"/>
+    <file name="form-u5175.php" crc="108131354" ref="contactos"/>
+    <file name="form-u6794.php" crc="320129784" ref="lecturas"/>
+  </folder>
+  <folder name="images">
+    <file name="muestralogoyoleo.png" crc="3989043644" seo="true" ref="tablet>index:tablet>quienes-somos:index:quienes-somos:evolución:contactos:lecturas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="evolución" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="lecturas" alt=""/>
+    </file>
+    <file name="u9100-4.png" crc="45398808" ref="tablet>index"/>
+    <file name="u9101-5.png" crc="4218214389" ref="tablet>index"/>
+    <file name="blank.gif" crc="4208392903" ref="tablet>index:tablet>quienes-somos:index:quienes-somos:evolución:contactos:lecturas"/>
+    <file name="unnamed.png" crc="47154478" seo="true" ref="tablet>index:tablet>quienes-somos:index:quienes-somos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="facebook.png" crc="4245641122" seo="true" ref="tablet>index:tablet>quienes-somos:index:quienes-somos:evolución:contactos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="evolución" alt=""/>
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="instagram.png" crc="4268833293" seo="true" ref="tablet>index:tablet>quienes-somos:index:quienes-somos:evolución:contactos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="evolución" alt=""/>
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="slaider1.jpg" crc="4231833470" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slaider2.jpg" crc="3822899803" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slaider3.jpg" crc="460975112" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="tablet>index:tablet>quienes-somos:index:quienes-somos:evolución:contactos:lecturas"/>
+    <file name="tablet1.png" crc="305063972" seo="true" ref="tablet>index:tablet>quienes-somos:index:quienes-somos:evolución:contactos:lecturas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="evolución" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="lecturas" alt=""/>
+    </file>
+    <file name="lectura rapida.jpg" crc="4124260196" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="electolectura.jpg" crc="4285610317" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apoyo pedagogico.jpg" crc="3771551380" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="actuacion.jpg" crc="3996206496" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mentes abiertas1.png" crc="518638846" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="habitos de lectura1.png" crc="4245294227" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="juegos1.png" crc="536780426" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="percepcion1.png" crc="3885753989" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lectura1.png" crc="3972295185" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="metodos de estudio.png" crc="3991059627" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="desarrollo de memoria1.png" crc="4244714428" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="activacion academica.png" crc="441454990" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="graduado1.png" crc="207596658" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="matriz quito.jpg" crc="250414070" seo="true" ref="tablet>index:index:contactos:lecturas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lecturas" alt=""/>
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="guayaquil.jpg" crc="4177641906" seo="true" ref="tablet>index:index:contactos:lecturas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lecturas" alt=""/>
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="ambato.jpg" crc="37986154" seo="true" ref="tablet>index:index:contactos:lecturas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lecturas" alt=""/>
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="santo domingo.jpg" crc="437734786" seo="true" ref="tablet>index:index:contactos:lecturas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lecturas" alt=""/>
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="u8969-4.png" crc="436865394" ref="tablet>index"/>
+    <file name="u8972-4.png" crc="339908201" ref="tablet>index"/>
+    <file name="u8971-4.png" crc="95988033" ref="tablet>index"/>
+    <file name="u8970-4.png" crc="3902882058" ref="tablet>index"/>
+    <file name="whatsapp.png" crc="3955289565" seo="true" ref="tablet>index:tablet>quienes-somos:index:quienes-somos:evolución:contactos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="evolución" alt=""/>
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="u10585-4.png" crc="45398808" ref="tablet>quienes-somos"/>
+    <file name="u10586-4.png" crc="531929662" ref="tablet>quienes-somos"/>
+    <file name="quienes somos.jpg" crc="4069340829" seo="true" ref="tablet>quienes-somos:quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="u10532-4.png" crc="63348649" ref="tablet>quienes-somos"/>
+    <file name="estudiantes del futuro.jpg" crc="3968856250" seo="true" ref="tablet>quienes-somos:quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="doctor-leyendo-libro-bata-blanca-medica_176474-8551.jpg" crc="533123651" ref="tablet>quienes-somos:quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="niños-leyendo.jpg" crc="4100198351" ref="tablet>quienes-somos:quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="u10528-8.png" crc="237756606" ref="tablet>quienes-somos"/>
+    <file name="u6065-4.png" crc="45398808" ref="index"/>
+    <file name="u6069-5.png" crc="4218214389" ref="index"/>
+    <file name="u9506-4.png" crc="436865394" ref="index"/>
+    <file name="u9509-4.png" crc="339908201" ref="index"/>
+    <file name="u9508-4.png" crc="95988033" ref="index"/>
+    <file name="u9507-4.png" crc="3902882058" ref="index"/>
+    <file name="bg1.jpg" crc="4183312463" ref="faq">
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="bg2.jpg" crc="3993228101" ref="faq">
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="people-eiffel-tower-france-landmark-medium.jpg" crc="179054229" ref="faq">
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="city-lights-night-rooftop-medium.jpg" crc="376625311" ref="faq">
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="night-industry-rails-railroads-medium.jpg" crc="508790507" ref="faq">
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="heart.png" crc="117585526" seo="true" ref="faq">
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="u6312-4.png" crc="45398808" ref="quienes-somos"/>
+    <file name="u6313-4.png" crc="531929662" ref="quienes-somos"/>
+    <file name="u4640-4.png" crc="63348649" ref="quienes-somos"/>
+    <file name="u4168-8.png" crc="237756606" ref="quienes-somos"/>
+    <file name="u6375-4.png" crc="45398808" ref="evolución"/>
+    <file name="u6376-4.png" crc="531929662" ref="evolución"/>
+    <file name="evolucion de la lectura 11.jpg" crc="122341384" seo="true" ref="evolución">
+      <caption webpage="evolución" alt=""/>
+    </file>
+    <file name="velocidad lectora1.png" crc="4081500223" seo="true" ref="evolución">
+      <caption webpage="evolución" alt=""/>
+    </file>
+    <file name="comprension-lectora1.png" crc="4045707440" seo="true" ref="evolución">
+      <caption webpage="evolución" alt=""/>
+    </file>
+    <file name="comprension-lectora111-crop-u4758.jpg" crc="3888060892" seo="true" ref="evolución">
+      <caption webpage="evolución" alt=""/>
+    </file>
+    <file name="concentracion de lectura1.png" crc="4061149315" seo="true" ref="evolución">
+      <caption webpage="evolución" alt=""/>
+    </file>
+    <file name="evolucion de la lectura.jpg" crc="3802370296" seo="true" ref="evolución">
+      <caption webpage="evolución" alt=""/>
+    </file>
+    <file name="u6421-4.png" crc="45398808" ref="contactos"/>
+    <file name="u6422-4.png" crc="531929662" ref="contactos"/>
+    <file name="contactos11.jpg" crc="3927145331" seo="true" ref="contactos:lecturas">
+      <caption webpage="lecturas" alt=""/>
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="u5634.png" crc="471803576" ref="contactos"/>
+    <file name="telefono.png" crc="16582855" seo="true" ref="contactos:lecturas">
+      <caption webpage="lecturas" alt=""/>
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="correo.png" crc="4160146540" seo="true" ref="contactos:lecturas">
+      <caption webpage="lecturas" alt=""/>
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="direccion.jpg" crc="4207228389" seo="true" ref="contactos:lecturas">
+      <caption webpage="lecturas" alt=""/>
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="u5528-4.png" crc="436865394" ref="contactos"/>
+    <file name="u5540-4.png" crc="339908201" ref="contactos"/>
+    <file name="u5537-4.png" crc="95988033" ref="contactos"/>
+    <file name="u5534-4.png" crc="3902882058" ref="contactos"/>
+    <file name="u6724-4.png" crc="45398808" ref="lecturas"/>
+    <file name="u6779-4.png" crc="531929662" ref="lecturas"/>
+    <file name="u6824.png" crc="471803576" ref="lecturas"/>
+    <file name="u6829-4.png" crc="436865394" ref="lecturas"/>
+    <file name="u6851-4.png" crc="339908201" ref="lecturas"/>
+    <file name="u6839-4.png" crc="95988033" ref="lecturas"/>
+    <file name="u6831-4.png" crc="3902882058" ref="lecturas"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="lecturas.css" crc="3948741586" ref="tablet>lecturas"/>
+      <file name="evoluci_n.css" crc="3948741586" ref="tablet>evolución"/>
+      <file name="contactos.css" crc="3948741586" ref="tablet>contactos"/>
+      <file name="quienes-somos.css" crc="31209166" ref="tablet>quienes-somos"/>
+      <file name="iefonts_quienes-somos.css" crc="3824998808" ref="tablet>quienes-somos"/>
+      <file name="faq.css" crc="3948741586" ref="tablet>faq"/>
+      <file name="index.css" crc="22711838" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="3768914789" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="117609060" seo="true" mt="1619555635118" redirect="true"/>
+    <file name="quienes-somos.html" crc="3771597100" seo="true" mt="1619555652767" redirect="true"/>
+    <file name="evolución.html" crc="4285006042" seo="true" mt="1619457595053" redirect="false"/>
+    <file name="contactos.html" crc="4067735008" seo="true" mt="1619457595093" redirect="false"/>
+    <file name="lecturas.html" crc="3915153859" seo="true" mt="1619457595135" redirect="false"/>
+    <file name="faq.html" crc="4120374472" seo="true" mt="1619457595177" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="evoluci_n.css" crc="279237556" ref="phone>evolución"/>
+      <file name="quienes-somos.css" crc="279237556" ref="phone>quienes-somos"/>
+      <file name="faq.css" crc="279237556" ref="phone>faq"/>
+      <file name="lecturas.css" crc="279237556" ref="phone>lecturas"/>
+      <file name="index.css" crc="279237556" ref="phone>index"/>
+      <file name="contactos.css" crc="279237556" ref="phone>contactos"/>
+    </folder>
+    <file name="index.html" crc="37099792" seo="true" mt="1619457594622" redirect="false"/>
+    <file name="quienes-somos.html" crc="4086218514" seo="true" mt="1619457594765" redirect="false"/>
+    <file name="evolución.html" crc="334379212" seo="true" mt="1619457594800" redirect="false"/>
+    <file name="contactos.html" crc="3800251173" seo="true" mt="1619457594827" redirect="false"/>
+    <file name="lecturas.html" crc="117524638" seo="true" mt="1619457594871" redirect="false"/>
+    <file name="faq.html" crc="4108226393" seo="true" mt="1619457594893" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="424601365" seo="true" mt="1619546698720" redirect="true"/>
+  <file name="faq.html" crc="3982523115" seo="true" mt="1619457595220" redirect="true"/>
+  <file name="quienes-somos.html" crc="401354039" seo="true" mt="1619554700778" redirect="true"/>
+  <file name="evolución.html" crc="4029398680" seo="true" mt="1619472890876" redirect="true"/>
+  <file name="contactos.html" crc="170052056" seo="true" mt="1619472940716" redirect="true"/>
+  <file name="lecturas.html" crc="271130834" seo="true" mt="1619457595220" redirect="true"/>
+</manifest>
